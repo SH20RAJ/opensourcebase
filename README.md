@@ -29,6 +29,10 @@ All resources and materials on OpenSourceBase.online are shared under open-sourc
 
 Join us in democratizing education and making high-quality learning resources accessible to all!
 
+git push
+# Enter your GitHub username and personal access token when prompted.
+
+
 
 
 
